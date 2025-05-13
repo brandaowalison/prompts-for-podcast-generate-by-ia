@@ -31,3 +31,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `copilot` (**Obs.:** Utilizei o copilot ao em vez do chatGPT)
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `leonardo.AI` (**Obs.:** Utilizei o leonardo.AI ao em vez do midjourney)
+
+## 🥇 Desafio da [DIO] - Bootcamp Microsoft 50 Anos - Prompts Inteligentes
+### Módulo - Criando um Podcast com IAs Generativas
+
+Utilizei diversas ferramentas ao longo do desenvolvimento do desafio para explorar diferentes possibilidades e recursos.
